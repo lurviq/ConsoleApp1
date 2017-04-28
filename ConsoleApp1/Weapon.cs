@@ -14,7 +14,7 @@ namespace ConsoleApp1
         int damage;
         int accuracy;
         int burst;
-        public Weapon(bool isMelee,string whatName,int whatAmmo,int whatDamage,int whatAccuracy,int whatburst)
+        public Weapon(bool isMelee,string whatName,int whatAmmo,int whatDamage,int whatAccuracy,int whatburst)    //Reeeeeeeee
         {
             melee = isMelee;
             name = whatName;
