@@ -19,7 +19,22 @@ namespace ConsoleApp1
         Weapon mainHand;
         Weapon offHand;
 
+        //Stats
+        int strength;
+        int dexterity;
+        int intelligence;
 
+        //Resources
+        int hp;
+        int maxHp;
+        int autism;
+        int maxAutism;
+
+        //Armor
+        int armor;
+        int maxArmor;
+
+        
 
 
 
