@@ -14,6 +14,8 @@ namespace ConsoleApp1
         int length = 6;
         static bool degeneracy = true;
         string nigger2 = "dupual";
+        string dupual = "nigger";
+        static Weapon weapon;
 
         static void Main(string[] args)
         {
@@ -61,12 +63,12 @@ namespace ConsoleApp1
                 Console.WriteLine("\"Paint it red for me\"");
                 Console.WriteLine("He pulls you onto his brilliant white stallion and guides it towards the NAACP center");
                 
-                Weapon new Weapon(true, "gladius", 0, 2, 70, 2);
-                Colosole.WriteLine("")
+                weapon = new Weapon(true, "gladius", 0, 2, 70, 2);
+                Console.WriteLine("");
 
 
             }
- Console.ReadLine();
+                Console.ReadLine();
         } 
     }
 }
