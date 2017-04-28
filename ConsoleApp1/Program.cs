@@ -55,20 +55,31 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Faggot Coalburner Niggerlover");
             }
-           
+
             else
             {
-                Console.WriteLine("\"Welcome Brother\"");
-                Console.WriteLine(" He hands you a shiny gladius");
+                says("Welcome Brother", "The Klansman");
+                text("He hands you a shiny Gladius");
                 Console.WriteLine("\"Paint it red for me\"");
                 Console.WriteLine("He pulls you onto his brilliant white stallion and guides it towards the NAACP center");
-                
-                weapon = new Weapon(true, "gladius", 0, 2, 70, 2);
                 Console.WriteLine("");
 
 
             }
-                Console.ReadLine();
-        } 
+            Console.ReadLine();
+        }
+        static void says(string text, string name)
+        {
+            Console.WriteLine("\"" + text + "\", says " + name + ".");
+        }
+        static void say(string text)
+        {
+            Console.WriteLine("\"" + text + "\"");
+        }
+        static void text(string text)
+        {
+            Console.WriteLine(" "+text);
+        }
+    
     }
 }
