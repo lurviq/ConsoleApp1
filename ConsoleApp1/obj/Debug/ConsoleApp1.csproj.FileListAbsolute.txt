@@ -4,3 +4,6 @@ c:\users\adolf hitler\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleA
 c:\users\adolf hitler\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
 c:\users\adolf hitler\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 c:\users\adolf hitler\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Emil\Documents\GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Emil\Documents\GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Emil\Documents\GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
