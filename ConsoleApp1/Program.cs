@@ -62,8 +62,6 @@ namespace ConsoleApp1
                 Console.WriteLine(" He hands you a shiny gladius");
                 Console.WriteLine("\"Paint it red for me\"");
                 Console.WriteLine("He pulls you onto his brilliant white stallion and guides it towards the NAACP center");
-                
-                weapon = new Weapon(true, "gladius", 0, 2, 70, 2);
                 Console.WriteLine("");
 
 
