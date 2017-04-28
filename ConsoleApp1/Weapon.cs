@@ -16,6 +16,7 @@ namespace ConsoleApp1
         int burst;
         bool twohanded;
         public Weapon(bool isMelee,string whatName,int whatAmmo,int whatDamage,int whatAccuracy,int whatburst, bool twohanded)
+
         {
             melee = isMelee;
             name = whatName;
