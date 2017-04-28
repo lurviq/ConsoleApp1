@@ -8,5 +8,20 @@ namespace ConsoleApp1
 {
     class Player
     {
+        //Personal information
+        int age;
+        int height;
+        int haircolor;
+        int eyecolor;
+        int race;
+
+        //Equipment info
+        Weapon mainHand;
+        Weapon offHand;
+
+
+
+
+
     }
 }
