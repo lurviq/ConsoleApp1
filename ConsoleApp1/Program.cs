@@ -13,7 +13,7 @@ namespace ConsoleApp1
         string name = "Franny";
         int length = 6;
         static bool degeneracy = true;
-
+        string nigger = "dupual";
 
         static void Main(string[] args)
         {
